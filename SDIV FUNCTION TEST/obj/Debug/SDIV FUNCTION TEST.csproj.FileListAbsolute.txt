@@ -350,3 +350,14 @@ D:\01. CPE DEV\03. 2022\02. Repair\FCC 3CH Update New Block Led\210422 Reduce ti
 D:\01. CPE DEV\03. 2022\02. Repair\FCC 3CH Update New Block Led\210422 Reduce time test\SDIV FUNCTION TEST\obj\Debug\SDIV_FUNCTION_TEST.Properties.Resources.resources
 D:\01. CPE DEV\03. 2022\02. Repair\FCC 3CH Update New Block Led\210422 Reduce time test\SDIV FUNCTION TEST\obj\Debug\SDIV FUNCTION TEST.csproj.GenerateResource.Cache
 D:\01. CPE DEV\03. 2022\02. Repair\FCC 3CH Update New Block Led\210422 Reduce time test\SDIV FUNCTION TEST\obj\Debug\SDIV FUNCTION TEST.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\bin\Debug\SDIV FUNCTION TEST.exe.config
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\obj\Debug\SDIV FUNCTION TEST.exe
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\obj\Debug\SDIV FUNCTION TEST.pdb
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\bin\Debug\SDIV FUNCTION TEST.exe
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\bin\Debug\SDIV FUNCTION TEST.pdb
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\bin\Debug\OptionDefine.dll
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\bin\Debug\Testpad.BTS4003.dll
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\obj\Debug\SDIV FUNCTION TEST.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\obj\Debug\SDIV_FUNCTION_TEST.Frmmain.resources
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\obj\Debug\SDIV_FUNCTION_TEST.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Line7FCT\SDIV FUNCTION TEST\obj\Debug\SDIV FUNCTION TEST.csproj.GenerateResource.Cache
